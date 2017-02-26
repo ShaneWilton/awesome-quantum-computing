@@ -6,7 +6,7 @@ This is an ever-evolving list, and thus a continual work in progress. Feel free 
 NB: _There will be duplicates!_ If a resource falls under multiple categories, it will be placed under each section.
 
 # Intros
-- [Quantum Computing Playground](https://qcplayground.withgoogle.com/#/home)
+- [Quantum Computing Playground](http://www.quantumplayground.net/#/home)
 
 # Lists of Lists
 - [Quantum Computing: Selected Internet Resources for Librarians, Researchers, and the Casually Curious](http://www.istl.org/09-spring/internet.html)
